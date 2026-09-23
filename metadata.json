@@ -1,0 +1,6 @@
+{
+  "name": "VidStock Agent",
+  "description": "Commercially optimized Adobe Stock video and photo prompt generator engineered for Veo, Runway, Kling, Midjourney, FLUX, and Firefly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
